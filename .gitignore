@@ -3,6 +3,7 @@
 .envrc
 *.ipynb_checkpoints
 __pycache__/
+env/
 
 solutions
 
